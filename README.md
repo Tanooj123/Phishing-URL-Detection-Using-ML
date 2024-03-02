@@ -25,14 +25,13 @@ The dataset used in this project consists of a collection of URLs labeled as phi
 To run this project locally, you will need the following dependencies:
 
 - Python 3.x
-- ![NumPy](https://numpy.org/images/logos/numpy.svg)
-- ![Pandas](https://pandas.pydata.org/static/img/pandas.svg)
-- ![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+- NumPy
+- Pandas
+- Scikit-learn
 - Jupyter Notebook (optional, for running the notebooks)
 
 You can install these dependencies using pip:
 
-```sh
 pip install numpy pandas scikit-learn jupyter
 
 
