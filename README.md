@@ -31,9 +31,9 @@ To run this project locally, you will need the following dependencies:
 - Jupyter Notebook (optional, for running the notebooks)
 
 You can install these dependencies using pip:
-
+'''sh
 pip install numpy pandas scikit-learn jupyter
-
+'''
 
 ## Usage 🚀
 
