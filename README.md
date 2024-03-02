@@ -31,26 +31,26 @@ To run this project locally, you will need the following dependencies:
 - Jupyter Notebook (optional, for running the notebooks)
 
 You can install these dependencies using pip:
-'''sh
+```sh
 pip install numpy pandas scikit-learn jupyter
-
+```
 
 ## Usage 🚀
 
 To use this project, follow these steps:
 
 1. Clone the repository to your local machine:
-
+```sh
 git clone https://github.com/TanoojSeelam/Phishing-URL-Detection-Using-ML.git
-
+```
 2. Navigate to the project directory:
-
+```sh
 cd Phishing-URL-Detection-Using-ML
-
+```
 3. Run the main script:
-
+```sh
 python main.py
-
+```
 This script will preprocess the data, train the machine learning model, and evaluate its performance.
 
 ## Results 📊
